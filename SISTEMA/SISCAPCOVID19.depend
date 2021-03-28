@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1605505621 source:c:\temp\siscapcovid19\main.c
+	<stdbool.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	"Paciente.h"
+	"Dados.h"
+
+1605505638 c:\temp\siscapcovid19\paciente.h
+	"Dados.h"
+	<stdbool.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1605505705 c:\temp\siscapcovid19\dados.h
+
