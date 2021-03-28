@@ -1,0 +1,10 @@
+  #-------------------------------------------#
+  # Criação: Vinicius Campelo - RA:0598532    #
+  #             Valeria Cunha - RA:0596305    #
+  # Data: 11/2020 / UNIP: PIM-IV; DF/SP       #
+  #                                           #
+  #-------------------------------------------#
+  VIDE MANUAL DO USUARIO
+
+  Executavel com o nome: SISCAPCOVID19.EXE
+  LOGIN: UNIP, SENHA:1234

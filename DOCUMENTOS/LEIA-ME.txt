@@ -1,0 +1,23 @@
+  #-------------------------------------------#
+  # Criação: Vinicius Campelo - RA:0598532    #
+  #             Valeria Cunha - RA:0596305    #
+  # Data: 11/2020 / UNIP: PIM-IV; DF/SP       #
+  #                                           #
+  #-------------------------------------------#
+
+
+ __   __  __    _  ___   _______             _______  ___   __   __           ___   __   __ 
+|  | |  ||  |  | ||   | |       |           |       ||   | |  |_|  |         |   | |  | |  |
+|  | |  ||   |_| ||   | |    _  |   ____    |    _  ||   | |       |   ____  |   | |  |_|  |
+|  |_|  ||       ||   | |   |_| |  |____|   |   |_| ||   | |       |  |____| |   | |       |
+|       ||  _    ||   | |    ___|           |    ___||   | |       |         |   | |       |
+|       || | |   ||   | |   |               |   |    |   | | ||_|| |         |   |  |     | 
+|_______||_|  |__||___| |___|               |___|    |___| |_|   |_|         |___|   |___|  
+
+
+ # EXECUTAVEL: SISCAPCOVID19.EXE
+ # DOCUMENTO GERADO: CADASTRO_ESPECIFICO.TXT, CADASTRO_TOTAL.TXT
+ # CLASSES: DADOS.H, PACIENTE.H, MAIN.C
+ # SOFTWARE TESTADO: DEVC++ 5.11, CODE::BLOCKS 20.03
+ # DOCPIM: PIM, MANUAL DO USUARIO, MANUAL DE INSTALAÇÃO <-- VIDE MANUAL DO USUARIO
+ # LOGIN SISTEMA: UNIP, SENHA: 1234
